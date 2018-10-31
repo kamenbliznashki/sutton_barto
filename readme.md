@@ -1,6 +1,6 @@
 # Reinforcement learning introduction
 
-A collection of python implementation of the RL algorithms for the examples and figures in Sutton & Barto, Reinforcement Learning: An Introduction.
+A collection of python implementations of the RL algorithms for the examples and figures in Sutton & Barto, Reinforcement Learning: An Introduction.
 
 * Numbering of the exmples is based on the January 1, 2018 complete draft to the 2nd edition.
 
